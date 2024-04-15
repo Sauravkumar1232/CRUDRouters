@@ -1,0 +1,9 @@
+make file name faculty_data.json
+make a index,js
+
+make a seprate route/facultyRoutes.js => crud
+make controller facultyController.js
+@yopmale.com
+expess 15aprl assingment
+
+install a mongoose
